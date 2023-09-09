@@ -46,11 +46,9 @@
 <h3 align="left">Proyectos Destacados</h3>
 
  <div align="left">
-
+  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kelvyn32&repo=EditorDeTexto&theme=merko "GrupoSoftware")](https://github.com/kelvyn32/EditorDeTexto)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kelvyn32&repo=Tic-tac-toe&theme=merko "TeleHelpBot")](https://github.com/kelvyn32/Tic-tac-toe)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kelvyn32&repo=Registro-y-mapa&theme=merko)](https://github.com/kelvyn32/Registro-y-mapa)
 
  </div>
